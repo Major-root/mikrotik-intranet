@@ -1,0 +1,3 @@
+express-app-service/node_modules
+express-app-service/.env
+express-app-service/.sequelizerc
